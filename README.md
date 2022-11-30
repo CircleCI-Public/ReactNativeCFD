@@ -2,8 +2,8 @@
 
 ## Description
 
-This Sample Vue.JS front-end project demonstrates what a typical JavaScript (or node) CI workflow may look on CircleCI.
-In this sample config, we have 2 workflows `test` and `build`. This config utilizes the node and android orbs, and runs through an android machine image.
+This Sample ReactJS front-end project demonstrates what a typical JavaScript (or node) CI workflow may look on CircleCI.
+In this sample config, we have 2 workflows `test` and `build`. This config utilizes the node and android orbs, and runs through an android machine image for building and testing and a convenience image for deploying.
 
 ## Getting Started
 
